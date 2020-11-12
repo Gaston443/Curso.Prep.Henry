@@ -1,0 +1,7 @@
+La sentencia for, sirve para repetir una porción de codigo una cierta cantidad de veces deseada.
+
+El operador && (AND) Se utiliza para en las condiciones, para que se tengan que cumplir mas de una sentencia booleana true y que de como resultado true, en caso de que una de las dos condiciones se false, el resultado va a ser false.
+
+El operador || (OR) Se utiliza para que indicar que si una de las dos expresiones que se disponen, el resultado va a ser true, y solo sera falso.. si ambas son false..
+
+El ! (negación) Sirve para negar una expresion, Si la expresion es verdadera devuelve falso y viceversa.
